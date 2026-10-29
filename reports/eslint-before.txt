@@ -1,0 +1,29 @@
+[0m
+[4mC:\Users\galin\Desktop\ДЗ\ІЗП\Lab04_Honchar_KN 3 26 BD\src\app.js[24m
+    [2m2:10[22m  [31merror[39m    'cpus' is defined but never used                                            [2mno-unused-vars[22m
+    [2m5:1[22m   [33mwarning[39m  Unexpected var, use let or const instead                                    [2mno-var[22m
+    [2m6:1[22m   [33mwarning[39m  Unexpected var, use let or const instead                                    [2mno-var[22m
+    [2m6:5[22m   [31merror[39m    'baseFee' is assigned a value but never used                                [2mno-unused-vars[22m
+   [2m20:9[22m   [31merror[39m    The value assigned to 'finalPrice' is not used in subsequent statements     [2mno-useless-assignment[22m
+   [2m29:10[22m  [31merror[39m    'getClientInfo' is defined but never used                                   [2mno-unused-vars[22m
+   [2m41:10[22m  [31merror[39m    'processAbonement' is defined but never used                                [2mno-unused-vars[22m
+   [2m42:9[22m   [31merror[39m    Expected literal to be on the right side of ==                              [2myoda[22m
+   [2m48:10[22m  [31merror[39m    'checkAccess' is defined but never used                                     [2mno-unused-vars[22m
+   [2m49:9[22m   [31merror[39m    The value assigned to 'access' is not used in subsequent statements         [2mno-useless-assignment[22m
+   [2m66:10[22m  [31merror[39m    'updateClientData' is defined but never used                                [2mno-unused-vars[22m
+   [2m67:5[22m   [31merror[39m    Assignment to property of function parameter 'clientObj'                    [2mno-param-reassign[22m
+   [2m82:7[22m   [31merror[39m    'formatStringData' is assigned a value but never used                       [2mno-unused-vars[22m
+   [2m82:27[22m  [31merror[39m    'text' is defined but never used                                            [2mno-unused-vars[22m
+   [2m83:12[22m  [31merror[39m    Unexpected template string expression                                       [2mno-template-curly-in-string[22m
+   [2m87:21[22m  [33mwarning[39m  Unexpected implicit coercion encountered. Use `Boolean(score)` instead      [2mno-implicit-coercion[22m
+   [2m91:10[22m  [31merror[39m    'calculateExtraBonus' is defined but never used                             [2mno-unused-vars[22m
+   [2m95:10[22m  [31merror[39m    'unusedHelperFunction' is defined but never used                            [2mno-unused-vars[22m
+   [2m99:10[22m  [31merror[39m    'dummyValidation' is defined but never used                                 [2mno-unused-vars[22m
+  [2m101:17[22m  [33mwarning[39m  Unexpected implicit coercion encountered. Use `Number(textNumber)` instead  [2mno-implicit-coercion[22m
+  [2m105:10[22m  [31merror[39m    'checkYodaConditionAgain' is defined but never used                         [2mno-unused-vars[22m
+  [2m106:9[22m   [31merror[39m    Expected literal to be on the right side of ==                              [2myoda[22m
+  [2m112:10[22m  [31merror[39m    'createReportConfig' is defined but never used                              [2mno-unused-vars[22m
+
+[31m[1m✖ 23 problems (19 errors, 4 warnings)[22m[39m
+[31m[1m  2 errors and 3 warnings potentially fixable with the `--fix` option.[22m[39m
+[0m
