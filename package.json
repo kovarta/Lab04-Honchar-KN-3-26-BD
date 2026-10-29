@@ -1,15 +1,19 @@
 {
-  "name": "lab04-surname-group",
+  "name": "lab04-Honchar-KN-3/26-BD",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix",
+    "check": "prettier --check . && eslint --max-warnings 0"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
   "devDependencies": {
     "@eslint/js": "10.0.1",
     "eslint": "10.12.0",
